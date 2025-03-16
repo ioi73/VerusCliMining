@@ -12,6 +12,6 @@
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.25.81",
-	"api-bind": "0.0.0.0:2020"
+	"api-allow": "192.168.1.0/16",
+	"api-bind": "0.0.0.0:5040"
 }
