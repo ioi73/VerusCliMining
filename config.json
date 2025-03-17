@@ -5,6 +5,16 @@
         	"url": "stratum+tcp://ru.vipor.net:5040",
 		"timeout": 150
 	},
+	{
+		"name": "Vipor",
+        	"url": "stratum+tcp://pl.vipor.net:5040",
+		"timeout": 150
+	},
+	{
+		"name": "Vipor",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
+		"timeout": 150
+	}
 	],
 	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Honor9-1",
 	"pass": "x",
