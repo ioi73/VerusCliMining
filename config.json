@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Xperia-1",
+	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Honor8A-1",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 6,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/24",
