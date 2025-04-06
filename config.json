@@ -3,8 +3,7 @@
 	{
 		"name": "Vipor",
         	"url": "stratum+tcp://ru.vipor.net:5040",
-		"timeout": 150
-	
+		"timeout": 150	
 	}
 	],
 	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Honor8c-1",
