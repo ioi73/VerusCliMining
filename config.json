@@ -2,24 +2,24 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+tcp://fi.vipor.net:5040",
+        	"url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150	
 	},
 	{
 		"name": "Vipor2",
-        	"url": "stratum+tcp://pl.vipor.net:5040",
+        	"url": "stratum+tcp://ru.vipor.net:5040",
 		"timeout": 150	
 	},
 	{
 		"name": "Vipor3",
-        	"url": "stratum+tcp://ru.vipor.net:5040",
+        	"url": "stratum+tcp://pl.vipor.net:5040",
 		"timeout": 150	
 	}
 	],
 	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.OppoA5-1",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 7,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/24",
