@@ -2,21 +2,21 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+ssl://ussw.vipor.net:5140",
+        	"url": "stratum+tcp://ussw.vipor.net:5040",
 		"timeout": 150	
 	},
 	{
 		"name": "Vipor2",
-        	"url": "stratum+ssl://usse.vipor.net:5140",
+        	"url": "stratum+tcp://usse.vipor.net:5040",
 		"timeout": 150	
 	},
 	{
 		"name": "Vipor3",
-        	"url": "stratum+ssl://ca.vipor.net:5140",
+        	"url": "stratum+tcp://ussw.vipor.net:5040",
 		"timeout": 150	
 	}
 	],
-	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.OppoA5-1",
+	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Redmi8-1",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
