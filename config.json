@@ -7,16 +7,16 @@
 	},
 	{
 		"name": "Vipor2",
-        	"url": "stratum+tcp://kz.vipor.net:5040",
+        	"url": "stratum+tcp://de.vipor.net:5040",
 		"timeout": 150	
 	},
 	{
 		"name": "Vipor3",
-        	"url": "stratum+tcp://tr.vipor.net:5040",
+        	"url": "stratum+tcp://pl.vipor.net:5040",
 		"timeout": 150	
 	}
 	],
-	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.21-1",
+	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.30-1",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
