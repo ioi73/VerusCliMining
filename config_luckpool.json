@@ -6,11 +6,6 @@
 		"timeout": 150	
 	},
 	{
-		"name": "Vipor2",
-        	"url": "stratum+tcp://usse.vipor.net:5045",
-		"timeout": 150	
-	},
-	{
 		"name": "Vipor3",
         	"url": "stratum+tcp://usse.vipor.net:5045",
 		"timeout": 150	
