@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Vipor3",
-        	"url": "stratum+tcp://us.vipor.net:5045",
+        	"url": "stratum+tcp://sg.vipor.net:5045",
 		"timeout": 150	
 	}
 	],
