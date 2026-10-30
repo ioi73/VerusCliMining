@@ -1,23 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
-		"timeout": 120
+		"name": "Vipor",
+        	"url": "stratum+tcp://usse.vipor.net:5040",
+		"timeout": 150	
 	},
 	{
-		"name": "Zergpool2",
-        	"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
-		"timeout": 120
-	},
-	{
-		"name": "Zergpool3",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
-		"timeout": 120
+		"name": "Vipor3",
+        	"url": "stratum+tcp://usse.vipor.net:5040",
+		"timeout": 150	
 	}
 	],
-	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi",
-	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=Honor7c-1",
+	"user": "R9KtFVxPUEntoERyJgWnVA7syyCP24cNYi.Miner",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
@@ -25,4 +20,3 @@
 	"api-allow": "192.168.1.0/24",
 	"api-bind": "0.0.0.0:4068"
 }
-
